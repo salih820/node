@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Backend test passed\""
+    "test": "echo \"Backend test passed\"",
     "start": "node index.js",
     "dev": "nodemon index.js",
     "seed:plans": "node seeds/seedPlans.js",
